@@ -1,1 +1,0 @@
-# Sum-and-Percentage-by-Function
